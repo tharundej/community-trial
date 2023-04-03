@@ -1,11 +1,10 @@
-# CHAOSS Community and the Handbook
+# Overview
 
 This repository contains the CHAOSS Community Handbook, you can also check it out on [the CHAOSS main website](https://chaoss.community/kbtopic/chaoss-community/)
 
-
 ## How to contribute to this repository
 
-We follow the GitHub pull-request workflow. More details on how to contribute is in the [How to contribute](how-to-contribute/) section.
+We follow the GitHub pull-request workflow. More details on how to contribute is in the [How to contribute](broken-reference) section.
 
 ### Maintainers of this repository
 
